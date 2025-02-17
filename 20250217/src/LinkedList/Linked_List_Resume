@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Users\yyx20\Desktop\All\乱七八糟的东西\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=57946:C:\Users\yyx20\Desktop\All\乱七八糟的东西\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\yyx20\Desktop\gitee仓库克隆\java-course\20250217\out\production\20250217 LinkedList.demo.TestLinkedList
+12 ->23 ->34 ->45 ->56 ->null
+链表的大小是:5
+12 ->23 ->89 ->34 ->45 ->56 ->null
+12 ->23 ->34 ->45 ->56 ->null
+12 ->23 ->34 ->45 ->56 ->56 ->null
+12 ->23 ->34 ->45 ->null
+null
+
+Process finished with exit code 0
